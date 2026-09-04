@@ -1,0 +1,6 @@
+{
+  "name": "Lantern Festival English Learning Game",
+  "description": "An interactive Lantern Festival English learning game where students craft colourful lanterns in different shapes and hang them on the full moon street.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
